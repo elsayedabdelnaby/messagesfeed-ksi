@@ -1,0 +1,16 @@
+.map-icon-label i {
+  font-size: 24px;
+  color: #FFFFFF;
+  line-height: 55px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.spinner-border {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  width: 5rem;
+  height: 5rem;
+}
